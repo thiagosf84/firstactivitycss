@@ -1,0 +1,37 @@
+body {
+	background-image: url("/home/thiago/Documentos/webdevudemy/capa.png"), url("/home/thiago/Imagens/fundoc.png");
+	background-repeat: no-repeat, repeat;
+		
+}
+p {
+	color:  #A9A9A9;
+	font: bold 16px Helvetica, sans-serif;
+	}
+	
+a {
+ 
+  color: #1a1a00;
+  font-weight: bold;
+  text-decoration: none;
+
+  }
+  
+  h3 {
+	color: #A9A9A9;
+	font:S bold 16px Helvetica, sans-serif;
+	}
+  
+div {
+		font-family: "Helvetica", sans-serif;
+		background: #F5F5DC;
+		height: 1790px;
+		width: 900px;
+		}
+		
+#borderimg1 {
+  border: 10px solid #f0c4e8;
+  
+  
+		
+		
+		
